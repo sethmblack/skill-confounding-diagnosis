@@ -1,11 +1,9 @@
 ---
 name: confounding-diagnosis
-description: Given a causal diagram, identify all backdoor paths creating confounding
-  between treatment and outcome, explain why they produce spurious associations, and
-  determine what variables must be controll...
+description: Given a causal diagram, identify all backdoor paths creating confounding between treatment and outcome, explain why they produce spurious associations, and determine what variables must be controll...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - confounding-diagnosis
